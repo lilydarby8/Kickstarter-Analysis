@@ -16,12 +16,19 @@ The process of figuring out the Outcome Based on Goals started with creating a n
 ### Challenges and Difficulties Encountered
  Another challenge that occurred was when I inserted the line graph for the Outcomes Based on Goals, is that my graph was showing too much data. I had to filter it to only show the percentage successful, percentage failed, and percentage canceled columns.
 ## Results
-•	What are two conclusions you can draw about the Outcomes based on Launch Date? The best time to launch a project is in May. December is possibly the most ill-timed month to launch a play considering it had the least amount of successful plays.
+•	What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+The best time to launch a project is in May. December is possibly the most ill-timed month to launch a play considering it had the least amount of successful plays.
 
 •	What can you conclude about the Outcomes based on Goals? 100% of the campaigns failed between the goal amounts of 45,000 to 49,999.
+
 To give Louise a better chance at success she needs to keep it below 45,000. Her second highest success rate was 66.7% percent between the 40,000 and 44,999 range. She doesn’t have to sacrifice the amount of money to guarantee success she just has to keep it below 45,000.
+
 •	What are some limitations of this dataset?
+
 You can see what percentage or how many were successful, failed, or canceled, but you cannot see what other factors played a role in the reason why they also may have been successful or unsuccessful.
+
 •	What are some other possible tables and/or graphs that we could create?
+
 A clustered column graph would be helpful to compare the successful and failed percentages of the Outcomes Based on Goals.
 
